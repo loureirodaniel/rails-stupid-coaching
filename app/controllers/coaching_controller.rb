@@ -11,7 +11,7 @@ class CoachingController < ApplicationController
 end
 
 
-private
+# private
 
 def coach_answer(your_message)
   # TODO: return coach answer to your_message
