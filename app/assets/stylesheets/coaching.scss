@@ -3,7 +3,8 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 #form{
   color: blue;
-  height:50px;
+  height:35px;
+  background-color: transparent
 }
 
 .link-style{
@@ -15,6 +16,16 @@
 }
 
 .container {
-  margin: 0 auto;
+  margin-top: 100px;
+  // margin: 0 auto;
   width: 970px;
+  text-align: center;
+}
+
+.button-position{
+  position: fixed;
+  position: relative;
+
+  // margin-left: 420px;
+  margin-top:10px;
 }
